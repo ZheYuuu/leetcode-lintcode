@@ -38,6 +38,23 @@ public:
     }
 };
 
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> hash_map;
+        int n = nums.size();
+        
+        for (int i = 0; i < n; ++i) {
+            int temp = target - nums[i];
+            if (hash_map.count(temp) && hash_map[temp] != i) {
+                return {i, hash_map[temp]};
+            }
+            hash_map[nums[i]] = i;
+        }
+        return {};
+    }
+};
+
 int main() {
     //    vector<int> nums = {2,7,11,15};
     //    int t = 9;
