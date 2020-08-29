@@ -2,7 +2,94 @@
 
 Problems by tag and frequency or companies.
 
+# String
+
+## 2020-08-28
+
+| #    | Title                                                        | Acceptance | Difficulty | Frequency |
+| ---- | ------------------------------------------------------------ | ---------- | ---------- | --------- |
+| 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 39.0%      | **Easy**   |           |
+| 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words) | 27.2%      | **Hard**   |           |
+| 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | 62.6%      | **Medium** |           |
+
+## 2020-08-27
+
+- [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) 
+- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+
+# Tree
+
+## 2020-08-26
+
+- Tree by Frequency
+  - [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+  - [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+
+## 2020-08-25
+
+- Tree by Frequency
+  - [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)
+  - [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
+
+## 2020-08-24
+
+- Tree by Frequency
+  - [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) 
+  - [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+  - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+
+## 2020-08-21
+
+- Tree by Frequency
+  - [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
+  - [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) 
+  - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+  - [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+## 2020-08-20
+
+- Tree by Frequency 
+  - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) 
+  - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+  - [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) 
+
+## 2020-08-19
+
+- Tree by Frequency
+  - [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+  - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+  - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+## 2020-08-18
+
+- Tree by Frequency
+  - [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) [Facebook|44](https://leetcode.com/company/facebook) [Amazon|24](https://leetcode.com/company/amazon)
+  - [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) [Facebook|36](https://leetcode.com/company/facebook) [Amazon|13](https://leetcode.com/company/amazon)
+  - [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) [Facebook|33](https://leetcode.com/company/facebook) [Amazon|15](https://leetcode.com/company/amazon)
+
 # Hash Table
+
+## 2020-08-17
+
+- Hash Table by Frequency
+  - [18. 4Sum](https://leetcode.com/problems/4sum/)
+  - [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) 
+
+## 2020-08-14
+
+- Hash Table by Frequency
+  - [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+  - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+  - [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [Facebook|42](https://leetcode.com/company/facebook)
+
+## 2020-08-13
+
+- Hash Table by Frequency
+  - [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) [Amazon|36](https://leetcode.com/company/amazon) [Facebook|19](https://leetcode.com/company/facebook)
+  - [706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
+  - [202. Happy Number](https://leetcode.com/problems/happy-number/)
+  - [136. Single Number](https://leetcode.com/problems/single-number/) [Facebook|10](https://leetcode.com/company/facebook)
 
 ## 2020-08-12
 
