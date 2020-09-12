@@ -2,7 +2,81 @@
 
 Problems by tag and frequency or companies.
 
+# Dynamic Programming
+
+## 2020-09-10
+
+| #    | Title                                                        | Acceptance | Difficulty |
+| ---- | ------------------------------------------------------------ | ---------- | ---------- |
+| 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | 32.9%      | **Hard**   |
+| 312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons) | 52.1%      | **Hard**   |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | 26.9%      | **Hard**   |
+
+## 2020-09-09
+
+| #    | Title                                                        | Acceptance | Difficulty |
+| ---- | ------------------------------------------------------------ | ---------- | ---------- |
+| 85   | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | 38.0%      | **Hard**   |
+| 322  | [Coin Change](https://leetcode.com/problems/coin-change)     | 35.8%      | **Medium** |
+| 221  | [Maximal Square](https://leetcode.com/problems/maximal-square) | 37.8%      | **Medium** |
+
+## 2020-09-08
+
+| #    | Title                                                        | Acceptance | Difficulty |
+| ---- | ------------------------------------------------------------ | ---------- | ---------- |
+| 91   | [Decode Ways](https://leetcode.com/problems/decode-ways)     | 24.9%      | **Medium** |
+| 139  | [Word Break](https://leetcode.com/problems/word-break)       | 40.3%      | **Medium** |
+| 85   | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | 38.0%      | **Hard**   |
+
+## 2020-09-07
+
+|      | #    | Title                                                        | Acceptance | Difficulty | Frequency |
+| :--- | :--- | :----------------------------------------------------------- | :--------- | :--------- | :-------- |
+|      | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | 46.7%      | **Easy**   |           |
+|      | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | 29.6%      | **Medium** |           |
+|      | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 50.6%      | **Easy**   |           |
+
 # String
+
+## 2020-09-04
+
+| #    | Title                                                        | Acceptance | Difficulty | Frequency |
+| ---- | ------------------------------------------------------------ | ---------- | ---------- | --------- |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | 55.8%      | **Easy**   |           |
+| 158  | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times) | 34.0%      | **Hard**   |           |
+| 609  | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | 59.7%      | **Medium** |           |
+
+## 2020-09-03
+
+| #    | Title                                                        | Acceptance | Difficulty | Frequency |
+| ---- | ------------------------------------------------------------ | ---------- | ---------- | --------- |
+| 680  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | 36.7%      | **Easy**   |           |
+| 67   | [Add Binary](https://leetcode.com/problems/add-binary)       | 45.4%      | **Easy**   |           |
+| 227  | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | 37.0%      | **Medium** |           |
+
+## 2020-09-02
+
+| #    | Title                                                        | Acceptance | Difficulty | Frequency |
+| ---- | ------------------------------------------------------------ | ---------- | ---------- | --------- |
+| 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | 57.1%      | **Medium** |           |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | 26.9%      | **Hard**   |           |
+| 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | 36.5%      | **Medium** |           |
+
+## 2020-09-01
+
+| #    | Title                                                        | Acceptance | Difficulty | Frequency |
+| ---- | ------------------------------------------------------------ | ---------- | ---------- | --------- |
+| 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | 34.8%      | **Hard**   |           |
+| 68   | [Text Justification](https://leetcode.com/problems/text-justification) | 27.9%      | **Hard**   |           |
+| 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | 47.0%      | **Medium** |           |
+
+## 2020-08-31
+
+| #    | Title                                                        | Acceptance | Difficulty | Frequency |
+| ---- | ------------------------------------------------------------ | ---------- | ---------- | --------- |
+| 91   | [Decode Ways](https://leetcode.com/problems/decode-ways)     | 24.8%      | **Medium** |           |
+| 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | 63.0%      | **Medium** |           |
+| 415  | [Add Strings](https://leetcode.com/problems/add-strings)     | 47.6%      | **Easy**   |           |
 
 ## 2020-08-28
 
